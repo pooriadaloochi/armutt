@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65726dfb-1258-4994-a3e6-aaa40ac6e0ad" name="Default Changelist" comment="finish api &amp; design in product page" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1tnk3t76ayIi7fxnCjJufl1b6oU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="D:\armut-frontend\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\web\Desktop\111111" />
+      <recent name="D:\armut-frontend\src\views\Home\AllProduct" />
+      <recent name="D:\armut-frontend\public\images" />
+      <recent name="D:\armut-frontend\public" />
+      <recent name="D:\armut-frontend\src\views\Home" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\web\Desktop\111111" />
+      <recent name="D:\armut-frontend\src\views\Home\singleProfuct" />
+      <recent name="D:\armut-frontend\src\views\Home\AllProduct" />
+      <recent name="D:\armut-frontend\src\views\Home" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="default" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="licenses" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>licenses</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="eject" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="eject" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="Gulp.js.default" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.eject" />
+        <item itemvalue="Gulp.js.licenses" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65726dfb-1258-4994-a3e6-aaa40ac6e0ad" name="Default Changelist" comment="" />
+      <created>1623412054594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623412054594</updated>
+      <workItem from="1623412062719" duration="364000" />
+      <workItem from="1623481423939" duration="10631000" />
+      <workItem from="1623734295916" duration="27790000" />
+      <workItem from="1623784739041" duration="16713000" />
+      <workItem from="1623905485410" duration="12576000" />
+      <workItem from="1624040243368" duration="994000" />
+      <workItem from="1624111438883" duration="139000" />
+      <workItem from="1624168818704" duration="20021000" />
+      <workItem from="1624253647686" duration="30394000" />
+      <workItem from="1624439694259" duration="17785000" />
+      <workItem from="1624714752401" duration="55226000" />
+      <workItem from="1624949869485" duration="943000" />
+      <workItem from="1624956009237" duration="22887000" />
+      <workItem from="1625377045552" duration="9078000" />
+      <workItem from="1625471624202" duration="26669000" />
+      <workItem from="1625647735869" duration="789000" />
+      <workItem from="1625649567571" duration="2678000" />
+      <workItem from="1625724269353" duration="730000" />
+      <workItem from="1625985718172" duration="2456000" />
+      <workItem from="1626007346615" duration="3415000" />
+      <workItem from="1626091085450" duration="6812000" />
+      <workItem from="1626243139120" duration="710000" />
+      <workItem from="1626252492827" duration="6377000" />
+      <workItem from="1626269212262" duration="2688000" />
+    </task>
+    <task id="LOCAL-00001" summary="edit login page">
+      <created>1623495686843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623495686843</updated>
+    </task>
+    <task id="LOCAL-00002" summary="edit register page">
+      <created>1624339394112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624339394112</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finish register page , create forgot page">
+      <created>1624452556581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624452556581</updated>
+    </task>
+    <task id="LOCAL-00004" summary="valdiation inputs">
+      <created>1624858996001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624858996001</updated>
+    </task>
+    <task id="LOCAL-00005" summary="finished validation inputs">
+      <created>1624888291258</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624888291258</updated>
+    </task>
+    <task id="LOCAL-00006" summary="set token Authorization in header in login &amp; register &amp; forgot pages and start with single page">
+      <created>1624965045973</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624965045973</updated>
+    </task>
+    <task id="LOCAL-00007" summary="design product page">
+      <created>1625403124486</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1625403124486</updated>
+    </task>
+    <task id="LOCAL-00008" summary="finish api &amp; design in product page">
+      <created>1625651975955</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1625651975955</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="edit login page" />
+    <MESSAGE value="edit register page" />
+    <MESSAGE value="finish register page , create forgot page" />
+    <MESSAGE value="valdiation inputs" />
+    <MESSAGE value="finished validation inputs" />
+    <MESSAGE value="set token Authorization in header in login &amp; register &amp; forgot pages and start with single page" />
+    <MESSAGE value="design product page" />
+    <MESSAGE value="finish api &amp; design in product page" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish api &amp; design in product page" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/auth/Register.js</url>
+          <line>268</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/auth/forgot.js</url>
+          <line>203</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/auth/forgot.js</url>
+          <line>166</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/auth/forgot.js</url>
+          <line>237</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/auth/Register.js</url>
+          <line>176</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/auth/Login.js</url>
+          <line>99</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/auth/forgot.js</url>
+          <line>222</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/Home/AllProduct/ThisProduct.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
